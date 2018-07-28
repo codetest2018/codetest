@@ -23,7 +23,7 @@
     { "id": 5, "postcode": "LA10 7QP", "name": "Lancaster University" },
     { "id": 6, "postcode": "LA10 9FL", "name": "Williamson Park" },
     { "id": 7, "postcode": "LA11 1DX", "name": "Lancaster Castle" },
-    { "id": 8, "postcode": "LE13 2SW", "name": "Loughborough University"  }
+    { "id": 8, "postcode": "LE13 2SW", "name": "Loughborough University"  },
     { "id": 55, "postcode": "210 52",  "name": "Epidaurus Theatre"  }
   ]
 }
