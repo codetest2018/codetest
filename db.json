@@ -12,7 +12,7 @@
     { "id": "foo", "name": "edgesrv-01-2", "location_id": 5,  "router_links": [2] },
     { "id": 10, "name": "proxyA",      "location_id": 5,  "router_links": [14] },
     { "id": 11, "name": "proxyB",      "location_id": 2,  "router_links": [8] },
-    { "id": 11, "name": "proxyC",      "location_id": 55,  "router_links": [1,2,3] },
+    { "id": 11, "name": "proxyC",      "location_id": 55,  "router_links": [1,2,3,4,5,6,7] },
     { "id": 14, "name": "cdn10",       "location_id": 4,  "router_links": [4,9,10] },
     { "id": 15, "name": "cdn20",       "location_id": 7,  "router_links": [3,9] },
     { "id": 19, "name": "foo5511",     "location_id": 55,  "router_links": [] }
